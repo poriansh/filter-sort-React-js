@@ -35,7 +35,7 @@ export const projects = [
     _id: 3,
     title: "ساخت داشبورد مدیریت مالی",
     description: "یک داشبورد مدیریت مالی برای کسب‌وکارهای کوچک",
-    status: "IN_PROGRESS",
+    status: "CLOSED",
     category: {
       id: 3,
       title: "توسعه نرم‌افزار",
